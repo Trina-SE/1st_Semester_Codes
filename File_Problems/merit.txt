@@ -1,0 +1,6 @@
+Position:1	1334	Adity	3.86
+Position:2	1327	Nafis	3.80
+Position:3	1307	Tumpa	3.78
+Position:4	1331	Fareya	3.77
+Position:5	1301	Shifa	3.70
+Position:6	1328	Shykot	3.62

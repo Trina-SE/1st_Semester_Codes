@@ -1,0 +1,6 @@
+1301	Shifa	3.70
+1327	Nafis	3.81
+1334	Adity	3.79
+1328	Shykot	3.77
+1307	Tumpa	3.72
+1331	Fareya	3.79
